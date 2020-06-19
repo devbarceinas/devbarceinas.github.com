@@ -97,6 +97,9 @@ a {
 }
 
 @media (max-width: 599px) {
+  body {
+    font-size: 18px;
+  }
   hr {
     border-color: #ffffff;
     width: auto;
